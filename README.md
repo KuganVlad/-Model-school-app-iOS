@@ -1,4 +1,3 @@
-<img width="255" alt="image" src="https://github.com/KuganVlad/my-graduate-work/assets/59089913/109d9be4-4793-46b8-a9fe-0642cf0aa149"># my-graduate-work
 A mobile application for a modeling school is part of my diploma work, for which I received the highest score. Also, this program is my first program for iOS. This is an unforgettable and cool experience in development, since the full diploma project contained a server part in PHP and web data parsing in Python!
 This project implements authorization with separate access, registration with confirmation by email, collections of elements in the form of waterfalls, maps with geolocation, adding, deleting and modifying almost all possible elements and much, much more!
 <img width="255" alt="image" src="https://github.com/KuganVlad/my-graduate-work/assets/59089913/280d55ce-a2d3-4f3a-88c4-6d8b3092f8ba">
